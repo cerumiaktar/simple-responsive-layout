@@ -28,7 +28,7 @@
 }
 .advertise{
     grid-area: advertise;
-    margin-top: 20px;
+    margin-top: 20px; 
 }
 .footer{
     grid-area: footer;
